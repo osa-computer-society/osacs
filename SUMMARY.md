@@ -9,7 +9,6 @@
 ## Resources
 
 * [GitHub Student Developer Pack](resources/github-student-developer-pack.md)
-* [Resources](resources/resources.md)
 * [Competitions](resources/competitions.md)
 
 ## Algorithms

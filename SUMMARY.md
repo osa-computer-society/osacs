@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [VS Code Documentation](https://code.visualstudio.com/docs)
 * [Getting Started With Repl.it](getting-started/getting-started.md)
 
 ## Resources

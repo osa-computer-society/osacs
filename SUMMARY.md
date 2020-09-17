@@ -8,6 +8,7 @@
 
 ## Resources
 
+* [Resources](resources/resources.md)
 * [GitHub Student Developer Pack](resources/github-student-developer-pack.md)
 * [Competitions](resources/competitions.md)
 

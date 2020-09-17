@@ -12,7 +12,7 @@ Before you go browsing, remember that the Internet is quite literally _gigantic!
 
 * [Ryan's Tutorials](https://ryanstutorials.net/)
   * A great site to learn about all sorts of programming topics.
-* [awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+* [awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of tech-related topics
   * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms): A further list of awesome things about algorithms.
 * [Repl.it](https://repl.it/): An online code editor that allows you to quickly and easily write and share code.
 * [Codecademy](https://www.codecademy.com/): has a variety of really good courses. Unfortunately, they've recently put a lot of their content behind a paywall, but there's still a lot of useful free lessons, especially [Learn How to Code](https://www.codecademy.com/learn/learn-how-to-code) if you're new to programming.
@@ -34,24 +34,17 @@ See our [Tools of the Trade](https://docs.google.com/document/d/10lPVhpyD0kqjodi
 
 \(Organized Alphabetically\)
 
-You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming). [Let us know](mailto:a.cai6@share.epsb.ca) about any competitions you write and we'll see if we can help you organize it!
+You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming). Feel free to let us know about any competitions you write and we'll see if we can help you organize it!
 
 ### [American Computer Science League \(ACSL\)](https://www.acsl.org/)
 
-* * Next up
+### [Canadian Computing Competition](https://cccgrader.com/)
 
-1. Friday, December 20, 2019​
-2. Friday, February 7, 2020
-3. Friday, March 13, 2020
-4. Contest \#4: Friday, April 17, 2020
-
-### [CCC Contest System](https://cccgrader.com/)
-
-* * [Past Contests](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc)
+* [Past Contests](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc)
 
 ### [CodeCup](https://www.codecup.nl/intro.php)
 
-* * I don't know much about this one — it seems like you're supposed to write a program to play [Gomoku](https://en.wikipedia.org/wiki/Gomoku) \(Five in a Row\)
+* I don't know much about this one — it seems like you're supposed to write a program to play [Gomoku](https://en.wikipedia.org/wiki/Gomoku) \(Five in a Row\)
 
 ### [Google's Coding Competitions](https://codingcompetitions.withgoogle.com/)
 
@@ -61,11 +54,10 @@ You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/w
 
 #### [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
-* More information will be released when they come out with registration times.
+* More information will be released soon.
 
 ### [USACO](http://www.usaco.org/index.php?page=instructions)
 
-* [Their training website](https://train.usaco.org/usacogate) offers a personalized curriculum.
 * Often features more ad hoc-style problems that test your problem-solving skills rather than memorization of key algorithms.
 
 ## Design
@@ -80,9 +72,7 @@ You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/w
 
 ## Hacking
 
-[https://www.youtube.com/watch?v=WnN6dbos5u8](https://www.youtube.com/watch?v=WnN6dbos5u8&feature=youtu.be)
-
-* TheCyberMentor
+[TheCyberMentor](https://www.youtube.com/watch?v=WnN6dbos5u8)
 
 ## Books
 
@@ -111,9 +101,17 @@ This is known as the quintessential algorithms textbook. It's over 1000 pages lo
 
 ## Practice Problems
 
+### [USACO Training Portal](https://train.usaco.org/)
+
+> This website includes training for students who typically have a year or two of programming experience and also have interest in 'algorithmic programming'. The techniques taught and drilled here are **difficult**. Expect to spend anywhere from a few minutes to **several hours per problem** if you are an excellent programmer. Beginners will not enjoy these problems, as they require extensive practice and experience. Someday we hope to have an additional lower-level training site for those just beginning in programming.
+
 ### [99 problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 
-Originally written for Prolog but they’re just questions and can be solved with any language. Starts really easy but gets pretty in depth, with stuff like binary trees and graph theory like problems.
+Originally written for Prolog but they’re just questions and can be solved with any language. Starts really easy but gets pretty in-depth, with stuff like binary trees and graph theory like problems.
+
+### [DMOJ](https://dmoj.ca/)
+
+Here you can find an easy-to-access collection of problems from a wide variety of contests, including all past CCCs.
 
 ### [Project Euler](https://projecteuler.net/)
 
@@ -134,10 +132,7 @@ Codewars has an ever-expanding collection of problems that are created by its us
 * October 19: SRM 769
 * etc.
 
-### [DMOJ](https://dmoj.ca/)
-
-* Here you can find an easy-to-access collection of problems from a wide variety of contests, including all past CCCs.
-
 ### [LeetCode](https://leetcode.com/)
 
 * Not just a place for finding problems; you can also interact with professionals and even look for employers \(eventually…\)
+

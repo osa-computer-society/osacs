@@ -1,6 +1,7 @@
 # Table of contents
 
 * [OSACS](README.md)
+* [Club Operations 2020–21](club-operations-2020-21.md)
 
 ## Getting Started
 

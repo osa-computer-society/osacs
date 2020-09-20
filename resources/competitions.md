@@ -10,7 +10,7 @@ You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/w
 
 ## [Canadian Computing Competition \(CCC\)](https://cccgrader.com/)
 
-You can compete in the Junior or Senior level, depending on how confident you are in your skills. The top 20 Senior level competitors advance to the Canadian Computing Olympiad \(CCO\), which gives you a shot to qualify for the Canadian team for the International Olympiad of Infomatics \(IOI\).
+You can compete in the Junior or Senior level, depending on how confident you are in your skills. The top 20 Senior level competitors advance to the Canadian Computing Olympiad \(CCO\), which gives you a shot to qualify for the Canadian team for the International Olympiad of Infomatics \(IOI\). It's organized by the University of Waterloo and is great to write if you're planning to apply.
 
 * **9 February 2021**
 * Registration cost: $8
@@ -50,4 +50,10 @@ The USACO often features more ad hoc-style problems that test your problem-solvi
 * Registration cost: free
 * 3 questions, 3 hours
 * Languages: C, C++, Java, Pascal, and Python \(2.x and 3.x\)
+
+## [Iverson Exam](https://www.ualberta.ca/computing-science/explore/iverson-exam/index.html)
+
+The Iverson Exam is an exam annually held at the University of Alberta for interested high school students. It's a pen-and-paper contest that you can either write competitively individually, or recreationally as a team.
+
+* Awaiting further information due to COVID
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Repl.it is an amazing "in-browser" IDE that lets you get started coding right away without needing to do any local setup on your computer.
+Repl.it is an amazing "in-browser" IDE that lets you get started coding right away in any common programming language without needing to do any local setup on your computer.
 
 To get started, **head to** [**repl.it**](http://repl.it/) **and click "sign up"** \(or "log in" if you already have an account\). **We recommend you sign up with your GitHub account.** If you don't have one already, we recommend creating one at [github.com](https://github.com/).
 
@@ -26,7 +26,7 @@ If you're looking for more Repl.it features, go ahead and poke around or visit t
 
 One of Repl.it's **coolest** and most useful features is Multiplayer, which allows multiple people to edit code in realtime, much like how you might share a Google Doc.
 
-To get started, open the repl you want to share and click "`share`" in the top right corner. You can either type in someone's username or email into the box or click on "`Copy Link`." Clicking "`Copy repl link`" will only copy the **public** link to your repl and won't allow other people to edit it.
+To get started, open the repl you want to share and click "`share`" in the top right corner. You can either type in someone's username or email into the box or click on "`Copy Link`." Clicking "`Copy repl link`" will only copy the **public** link to your repl and won't allow other people to edit it. When they open the link, it'll allow them to join in and write code with you at the same time! 
 
 
 

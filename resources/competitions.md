@@ -6,3 +6,48 @@ description: >-
 
 # Competitions
 
+You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming). Feel free to let us know about any competitions you write and we'll see if we can help organize it!
+
+## [Canadian Computing Competition \(CCC\)](https://cccgrader.com/)
+
+You can compete in the Junior or Senior level, depending on how confident you are in your skills. The top 20 Senior level competitors advance to the Canadian Computing Olympiad \(CCO\), which gives you a shot to qualify for the Canadian team for the International Olympiad of Infomatics \(IOI\).
+
+* **9 February 2021**
+* Registration cost: $8
+* 3 hours, 5 questions
+* Languages: C, C++, Python \(2.x and 3.x\), Pascal, Java, Perl, and PHP
+
+## \*\*\*\*[Google's Coding Competitions](https://codingcompetitions.withgoogle.com/) \*
+
+### [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+
+> Google’s longest running global coding competition, Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. Contestants advance through four online-hosted rounds to compete at the annual Code Jam World Finals that is held at a different international Google office each year. Each round brings new challenges, and in the end 25 contestants will have the ultimate chance to put their skills to the test, vying for cash prizes and the coveted championship title at the World Finals.
+
+* Schedule TBA
+
+### [Hash Code](https://codingcompetitions.withgoogle.com/hashcode)
+
+> Hash Code is a team programming competition, organized by Google, for students and professionals around the world. You pick your team and programming language and we pick an engineering problem for you to solve. This year’s contest kicks off with an Online Qualification Round, where your team can compete from wherever you’d like, including from one of our Hash Code hubs. Top teams will then be invited to a Google office for the Final Round.
+
+* Schedule TBA
+
+### [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
+
+> Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google \(top participants may be invited to interview at Google\).
+
+* **Round F: 26 September 2020, 18:00–21:00**
+* **Round G: 18 October 2020, 06:00–09:00**
+* **Round H: 14 November 2020, 20:00–23:00**
+* Languages: Bash, C, C\#, C++14, Clojure, D, Dart, F\#, Go, Groovy, Haskell, Java, JavaScript \(Node.js\), Julia, Kotlin, Lisp, Lua, OCaml, Objective-C, Octave, PHP, Pascal, Perl, PyPy 2, Python 2, Python 3, R, Ruby, Rust, Scala, Swift, TypeScript \(Node.js\), Visual Basic
+
+## \*\*\*\*[USA Computing Olympiad \(USACO\)](http://www.usaco.org/index.php?page=instructions)
+
+The USACO often features more ad hoc-style problems that test your problem-solving skills rather than memorization of key algorithms. You start in the Bronze Division, and during each of the contest rounds, you have the chance to qualify for the next division: Silver, Gold, then Platinum.
+
+* **First Contest: December \(TBA\)**
+* **Second Contest: January \(TBA\)**
+* **Third Contest: February \(TBA\)**
+* Registration cost: free
+* 3 questions, 3 hours
+* Languages: C, C++, Java, Pascal, and Python \(2.x and 3.x\)
+

@@ -4,7 +4,7 @@ description: Here's a collection of resources for programmers at all levels.
 
 # Resources
 
-If you have something you want to add, let us know in person! This page is a work in progress and some of the contest dates may be outdated.
+If you have something you want to add, feel free to let us know in person!
 
 ## Misc
 
@@ -21,42 +21,13 @@ Before you go browsing, remember that the Internet is quite literally _gigantic!
 
 ## Language-Specific
 
-See our [Tools of the Trade](https://docs.google.com/document/d/10lPVhpyD0kqjodi21XNZE314M5Xc3TOms6DYMfglyEI/edit?usp=sharing) file for information on various IDEs.
-
 ### Processing
 
-[Hello Processing](https://hello.processing.org/): An amazing set of video tutorials by Daniel Shiffman \(the creator of Processing\) on getting started with the language.
+* [Hello Processing](https://hello.processing.org/): An amazing set of video tutorials by Daniel Shiffman \(the creator of Processing\) on getting started with the language.
 
 ### Web development
 
-[MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): the Mozilla Development Network is essentially the ultimate authority on all things web, and their tutorials are just as amazing!
-
-## Contests
-
-\(Organized Alphabetically\)
-
-You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming). Feel free to let us know about any competitions you write and we'll see if we can help you organize it!
-
-* [American Computer Science League \(ACSL\)](https://www.acsl.org/)
-* [Canadian Computing Competition](https://cccgrader.com/)
-  * [Past Contests](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc)
-  * Has a Junior and Senior Level.
-  * 9 February 2021
-* [CodeCup](https://www.codecup.nl/intro.php)
-  * I don't know much about this one — it seems like you're supposed to write a program to play [Gomoku](https://en.wikipedia.org/wiki/Gomoku) \(Five in a Row\)
-* [Google's Coding Competitions](https://codingcompetitions.withgoogle.com/)
-  * [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
-  * [Hash Code](https://codingcompetitions.withgoogle.com/hashcode)
-  * [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
-    * Round F: 26 September 2020, 18:00–21:00
-    * Round G: 18 October 2020, 06:00–09:00
-    * Round H: 14 November 2020, 20:00–23:00
-  * More information will be released soon.
-* [USACO](http://www.usaco.org/index.php?page=instructions)
-  * Often features more ad hoc-style problems that test your problem-solving skills rather than memorization of key algorithms.
-  * First Contest: December \(TBA\)
-  * Second Contest: January \(TBA\)
-  * Third Contest: February \(TBA\)
+* [MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials): the Mozilla Development Network is essentially the ultimate authority on all things web, and their tutorials are just as amazing!
 
 ## Design
 
@@ -100,19 +71,16 @@ This is known as the quintessential algorithms textbook. It's over 1000 pages lo
   * > This website includes training for students who typically have a year or two of programming experience and also have interest in 'algorithmic programming'. The techniques taught and drilled here are **difficult**. Expect to spend anywhere from a few minutes to **several hours per problem** if you are an excellent programmer. Beginners will not enjoy these problems, as they require extensive practice and experience. Someday we hope to have an additional lower-level training site for those just beginning in programming.
 * [99 problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
   * Originally written for Prolog but they’re just questions and can be solved with any language. Starts really easy but gets pretty in-depth, with stuff like binary trees and graph theory like problems.
-* [DMOJ](https://dmoj.ca/)
-  * Here you can find an easy-to-access collection of problems from a wide variety of contests, including all past CCCs.
+* [CodinGame](https://www.codingame.com/)
+  * A surprisingly fun platform that takes gamifying learning to the next level.
+* [**DMOJ**](https://dmoj.ca/)\*\*\*\*
+  * Here you can find and practice a huge and accessible collection of problems from a wide variety of contests, including past CCCs and USACOs.
 * [Project Euler](https://projecteuler.net/)
   * These are more math-oriented problems, but they're a great way to get started with creative problem-solving and algorithmic thinking.
 * [Kattis](https://open.kattis.com/)
-  * Kattis is a great collection of a gigantic variety of problems.
+  * A great collection of a gigantic variety of problems.
 * [Codewars](https://www.codewars.com/)
   * Codewars has an ever-expanding collection of problems that are created by its users and can be translated into different languages by them as well.
-* [Topcoder](https://www.topcoder.com/community/competitive-programming/)
-  * Contests: \(Outdated\)
-  * October 10: SRM 768 - Sponsored by Google
-  * October 19: SRM 769
-  * etc.
 * [LeetCode](https://leetcode.com/)
   * Not just a place for finding problems; you can also interact with professionals and even look for employers \(eventually…\)
 

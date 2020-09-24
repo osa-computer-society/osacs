@@ -8,16 +8,16 @@ description: >-
 
 Here are some of the things we do:
 
-* Organize computing competitions throughout the year, including \(but not limited to\):
+* Organize [coding competitions](resources/competitions.md) throughout the year, including \(but not limited to\):
   * The Canadian Computing Competition
   * The USA Computing Olympiad
   * The University of Alberta Iverson Computing Science Exam
   * The Google Coding Competitions, including Kick Start, Hash Code, and Code Jam
-* Run events throughout the year to engage the OSA community.
-* Assist computer science students \(or students in other computer courses, including CISCO, Cybersecurity, and Communication Technology\) with their coursework.
-* Host weekly meetings to introduce students to various fields of computing science including robotics, machine learning, or algorithms.
+* Run events throughout the year to engage the OSA community
+* Assist computer science students \(or students in other computer courses, including CISCO, Cybersecurity, and Communication Technology\) with their coursework
+* Host weekly meetings to introduce students to various fields of computing science including robotics, machine learning, or algorithms
 
-Check out the other pages in the sidebar to get started!
+Check out our [club operations page](club-operations-2020-21.md) for more info about this specific year, or navigate to any page in the sidebar for more!
 
 
 

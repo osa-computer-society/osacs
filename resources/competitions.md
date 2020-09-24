@@ -10,7 +10,7 @@ You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/w
 
 ## [Canadian Computing Competition \(CCC\)](https://cccgrader.com/)
 
-You can compete in the Junior or Senior level, depending on how confident you are in your skills. The top 20 Senior level competitors advance to the Canadian Computing Olympiad \(CCO\), which gives you a shot to qualify for the Canadian team for the International Olympiad of Infomatics \(IOI\). It's organized by the University of Waterloo and is great to write if you're planning to apply.
+You can compete in the Junior or Senior level, depending on how confident you are in your skills. The top 20 Senior level competitors advance to the Canadian Computing Olympiad \(CCO\), which gives you a shot to qualify for the Canadian team for the International Olympiad of Infomatics \(IOI\). It's organized by the University of Waterloo and is a great contest great to write if you're planning to apply there.
 
 * **9 February 2021**
 * Registration cost: $8

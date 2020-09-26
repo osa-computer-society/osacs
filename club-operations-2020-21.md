@@ -4,11 +4,26 @@ description: Two years in operation? Two times the awesomeness.
 
 # Club Operations 2020–21
 
-Your execs this year are Alexander Cai and Edward Han in Grade 12 and Caleb Ji and Catherine Kim in Grade 11!
+Your execs this year are:
+
+* President: Alexander Cai
+* VP Marketing: Edward Han
+* VP Outreach: Catherine Kim
+* VP R&D: Caleb Ji
 
 Now that everything is online, it's a great time to learn what your computer can do! Check out [our resources page](resources/resources.md) for useful links to get started.
 
 We're planning to hold weekly meetings at a time to be determined! Clubs officially start in October, so stay tuned!
+
+### Official Students' Union Club Schedule
+
+* ~~Club Application will go out: Friday Sept 11~~
+* ~~Club Application Deadline: Friday Sept 25~~
+* Club Approval by: Wednesday Sept 30
+* Teacher Advisors choose club: Sept 30 - Oct 4
+* Teacher Advisor/Exec Choose Club Time Slot: Oct 5 - 9
+* Club Fair Planning: Oct 5 - 9
+* Club Fair: Oct 13 - 16
 
 Check out the following tabs for more info!
 
@@ -247,9 +262,9 @@ School events TBA
 
 * We're planning a Gaming Night fundraiser sometime in the winter as a tribute to the annual OSA Winter League Tourney! This event is very much in the works, so stay tuned.
 
-We're also planning a volunteering program aimed at teaching computer literacy and coding to junior high students! Stay tuned on the Discord server for more information.
+We're also planning a volunteering program aimed at teaching computer literacy and coding to junior high students! Stay tuned on the Discord server or contact Catherine Kim for more information.
 
-If you've got some _wicked_ ideas for events or fundraisers we could do, or are part of an organization that you think we'd love to collaborate with, we're 100% thrilled to hear your suggestions. Hop in to our Discord server and let us know!
+If you've got some _wicked_ ideas for events or fundraisers we could do, or are part of an organization that you think we'd love to collaborate with, we're 100% thrilled to hear your suggestions. Hop into our Discord server and let us know!
 {% endtab %}
 {% endtabs %}
 

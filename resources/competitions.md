@@ -6,13 +6,24 @@ description: >-
 
 # Competitions
 
-You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming). Feel free to let us know about any competitions you write and we'll see if we can help organize it!
+You can find a more comprehensive list [on Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming). Feel free to let us know about any competitions you write and we'll see if we can help organize it! Also, join [our Discord server](../club-operations-2020-21.md) to get information about hackathons and other events.
+
+## [Beaver Computing Challenge \(BCC\)](https://cemc.uwaterloo.ca/contests/bcc.html)
+
+The BCC is an introductory contest for students in Grade 10 and below! Even if you don't have any programming experience, you can solve some of these logical thinking puzzles.
+
+* **Weeks of 9 and 16 November \(exact time TBA\)**
+* **Grade 10s ONLY**
+* Registration deadline: 28 October 2020
+* Registration cost: $2.00
+* 45 minutes, 15 multiple choice questions for 90 total marks
 
 ## [Canadian Computing Competition \(CCC\)](https://cccgrader.com/)
 
 You can compete in the Junior or Senior level, depending on how confident you are in your skills. The top 20 Senior level competitors advance to the Canadian Computing Olympiad \(CCO\), which gives you a shot to qualify for the Canadian team for the International Olympiad of Infomatics \(IOI\). It's organized by the University of Waterloo and is a great contest great to write if you're planning to apply there.
 
 * **9 February 2021**
+* Registration deadline: 9 February 2021
 * Registration cost: $8
 * 3 hours, 5 questions
 * Languages: C, C++, Python \(2.x and 3.x\), Pascal, Java, Perl, and PHP
@@ -35,10 +46,12 @@ You can compete in the Junior or Senior level, depending on how confident you ar
 
 > Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google \(top participants may be invited to interview at Google\).
 
-* **Round F: 26 September 2020, 18:00–21:00**
+* ~~**Round F: 26 September 2020, 18:00–21:00**~~
 * **Round G: 18 October 2020, 06:00–09:00**
 * **Round H: 14 November 2020, 20:00–23:00**
-* Languages: Bash, C, C\#, C++14, Clojure, D, Dart, F\#, Go, Groovy, Haskell, Java, JavaScript \(Node.js\), Julia, Kotlin, Lisp, Lua, OCaml, Objective-C, Octave, PHP, Pascal, Perl, PyPy 2, Python 2, Python 3, R, Ruby, Rust, Scala, Swift, TypeScript \(Node.js\), Visual Basic
+* Registration cost: FREE
+* 4 questions, 3 hours
+* Languages: Bash, C, C\#, C++14, Clojure, D, Dart, F\#, Go, Groovy, Haskell, Java, JavaScript/TypeScript \(Node.js\), Julia, Kotlin, Lisp, Lua, OCaml, Objective-C, Octave, PHP, Pascal, Perl, PyPy 2, Python 2/3, R, Ruby, Rust, Scala, Swift, Visual Basic
 
 ## \*\*\*\*[USA Computing Olympiad \(USACO\)](http://www.usaco.org/index.php?page=instructions)
 
@@ -47,7 +60,7 @@ The USACO often features more ad hoc-style problems that test your problem-solvi
 * **First Contest: December \(TBA\)**
 * **Second Contest: January \(TBA\)**
 * **Third Contest: February \(TBA\)**
-* Registration cost: free
+* Registration cost: FREE
 * 3 questions, 3 hours
 * Languages: C, C++, Java, Pascal, and Python \(2.x and 3.x\)
 

@@ -5,6 +5,7 @@
 
 ## Getting Started
 
+* [Making a Pull Request](getting-started/making-a-pull-request.md)
 * [VS Code Documentation](https://code.visualstudio.com/docs)
 * [Getting Started With Repl.it](getting-started/getting-started.md)
 

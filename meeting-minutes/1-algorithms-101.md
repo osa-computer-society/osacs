@@ -304,7 +304,9 @@ Well, _actually_ yes \(see [radix sort](https://www.geeksforgeeks.org/radix-sort
 
 What you should associate with $$n \log n$$ is that it's the LOWER bound for any _comparison_ sort, such as [merge sort](https://www.geeksforgeeks.org/merge-sort/) or [heap sort](https://www.geeksforgeeks.org/heap-sort/) \(remember talking about heaps earlier?\), both of which also have this condition.
 
-* * If f\(n\) is the running time of a comparison sort and $$g(n) = n \log n$$, how would you write "g is the lower bound of f" \(or equivalently, f has a lower bound of g\) using omega notation?
+{% hint style="info" %}
+If f\(n\) is the running time of a comparison sort and $$g(n) = n \log n$$, how would you write "g is the lower bound of f" \(or equivalently, f has a lower bound of g\) using omega notation?
+{% endhint %}
 
 Note that usually in programming, when you see logs, it's usually base 2 and not base 10, so calculating $$n \log n$$ for a value of 10,000,000, we get:
 
@@ -314,7 +316,7 @@ $$
 
 which runs in under 1 second, so this algorithm will solve our final test case and we'll have fully solved the problem!
 
-If you can fully solve any problem on a big competition, that's a big achievement and you should be proud of yourself. Just remember not to pass by any easy points while you're striving for perfection. On that note, don't strive for perfection. Perfect scores are basically not humanly possible.
+If you can fully solve any problem on a big competition, especially the later ones, that's a big achievement and you should be proud of yourself. Just remember not to pass by any easy points while you're striving for perfection. On that note, don't strive for perfection. Perfect scores are basically not humanly possible. Take it easy on yourself if you get stuck on a question and always feel free to ask for help!
 
 ## TODO
 

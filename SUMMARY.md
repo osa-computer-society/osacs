@@ -17,6 +17,6 @@
 
 ## Meeting Minutes
 
-0. [Hello World](meeting-minutes/0-hello-world.md)
-1. [Algorithms 101](meeting-minutes/1-algorithms-101.md)
-2. [Data Structures 101 and Game Dev 101](meeting-minutes/2-data-structures-101-and-game-dev-101.md)
+* [0.Hello World](meeting-minutes/0-hello-world.md)
+* [1. Algorithms 101](meeting-minutes/1-algorithms-101.md)
+* [2. Data Structures 101 and Game Dev 101](meeting-minutes/2-data-structures-101-and-game-dev-101.md)

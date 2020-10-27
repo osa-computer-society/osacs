@@ -81,9 +81,10 @@ I've read a few sources that say that `++i` is actually marginally faster becaus
 
 ### 2. Kahoot
 
-Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! We definitely covered a lot of tricky topics today, so just remember, don't worry if we mention topics you've never seen before; the Kahoots are more of a tool for us to introduce some new topics. Here's this week's problems:
+Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We definitely covered a lot of tricky topics today, so just remember, don't worry if we mention topics you've never seen before; the Kahoots are more of a tool for us to introduce some new topics. Here's this week's problems:
 
    1. Which of these is not (currently) a programming competition?
+
       1. [ ] Canadian Computing Competition
       2. [x] OSA Coding Challenge
       3. [ ] USA Computing Olympiad
@@ -94,6 +95,7 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
       The other ones are all competitions we're organizing, so stay tuned as the registration deadlines come up.
 
    2. What is the most popular language on GitHub?
+
       1. [ ] C
       2. [ ] C++
       3. [x] JavaScript
@@ -102,6 +104,7 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
       JavaScript, along with HTML and CSS, is the language used to run the web. It's really popular in open source because websites are one of the most common types of projects that are built by teams.
 
    3. What is the most popular language according to the TIOBE index?
+
       1. [x] C
       2. [ ] C++
       3. [ ] Java
@@ -110,6 +113,7 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
       [The TIOBE index](https://www.tiobe.com/tiobe-index/) measures the popularity of a language in the industry. C is still there because it's used in old software right from the origin of computers, and it's also popular in embedded systems like chips or cars.
 
    4. Which one of these is NOT a game engine?
+
       1. [ ] Unreal Engine
       2. [ ] Unity
       3. [ ] Godot
@@ -118,6 +122,7 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
       Unreal Engine and Unity are two of the most widely used game engines, even for some industry-level games. Godot is another fun engine. Visual Studio is an IDE used to write code using the Microsoft .NET family of languages and it's also the editor which Unity uses for coding in C#.
 
    5. Which of these structures always stores a **SORTED** list of objects?
+
       1. [x] Heap
 
          Only 1 person got this one right, so if these are new to you, don't worry! A **heap** is a data structure which always stores a **sorted** list of elements. We'll talk more about how heaps are actually implemented later on.
@@ -134,6 +139,7 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
          Similar to a stack is a **queue**, which is like a queue at the chesckout line at the grocery store. The first person to get in line is going to be the first person out, so we call it "First In, Last Out", or "FILO".
 
    6. What software do MOST programmers use to manage versions of their code?
+
       1. [x] Git
 
          Git is the most widely used version control software, which is used for managing different versions of your code.
@@ -148,6 +154,7 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
          For smaller projects, this is fine, but as soon as you're working on something for the long term, you'll want a way to track down where bugs occur in your code.
 
    7. Which of these notations gives the most precise bound on an algorithm's rate of growth?
+
       1. [x] Theta notation
 
          We'll talk more about what rate of growth actually means later, but you should associate this with the equals ($=$) sign. If we say "f is theta ($\Theta$) of g" ($f = \Theta(g)$), that means that as the input size gets really big, f and g *asymptotically* grow at the *same* rate. (This is an overgeneralization.)
@@ -162,6 +169,7 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
          While O notation deals with the upper bound, omega notation deals with the lower bound in the same way; Big omega is not strict, while small omega is strict ()
 
    8. Which of these languages is most commonly used for machine learning?
+
       1. [ ] Rust
       2. [ ] C
       3. [ ] Java
@@ -170,6 +178,7 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
       Although Python is a very high-level language so it's considered slower than compiled languages like Rust or C, it takes much less time to actually write the code using many of the libraries and tools available.
 
    9. Which of these is NOT a common way of storing colour information?
+
       1. [ ] Red Green Blue (RGB)
 
          These are the three types of cones in your eye and form the primary colours of "additive" colour, which means that if you produce red, green, and blue light at the same time, their wavelengths will add to form white.
@@ -182,9 +191,10 @@ Congratulations to @Caleb for winning and @Madhav and @Frank as the runner-ups! 
 
       4. [x] Red Yellow Blue (RYB)
 
-         This is NOT an actual way of storing colour information, although they are used in painting because they are similar to the primary colours of the subtractive colour system, magenta, yellow, and cyan respectively.
+         This is NOT an actual way of storing colour information, although it are used in painting because red, yellow, and blue are similar to the primary colours of the subtractive colour system, magenta, yellow, and cyan respectively.
 
   10. Which one of these functions grows the fastest?
+
       1. [ ] $n!$
 
          Comparing this to $n^n$, we can see that each number in $n! = n\cdot(n-1)\cdot(n-2)\cdots2\cdot 1$ is less than or equal to each number in $n^n = n \cdot n \cdots n$.

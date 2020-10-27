@@ -75,17 +75,15 @@ Although the USACO and most other major programming competitions only accept **C
 
 ## Schedule
 
+| Week | _Rough_ Plan |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Week</th>
-      <th style="text-align:left"><em>Rough</em> Plan</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Oct 12&#x2013;Oct 18</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Oct 12&#x2013;Oct 18</th>
+      <th style="text-align:left">
         <ul>
           <li>Club Fair!</li>
           <li>Welcome!</li>
@@ -95,20 +93,32 @@ Although the USACO and most other major programming competitions only accept **C
         </ul>
         <p>Sunday from 6&#x2013;9 am: <b>Google Kick Start Round G</b>
         </p>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Oct 19&#x2013;Oct 25</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Oct 19&#x2013;Oct 25</th>
+      <th style="text-align:left">
         <ul>
           <li>What are algorithms, and why should I care?</li>
           <li>Getting started on USACO training (<b>Section 1.1: Introduction</b>)</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Oct 26&#x2013;Nov 1</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Oct 26&#x2013;Nov 1</th>
+      <th style="text-align:left">
         <ul>
           <li><b>Section 1.2: Submitting solutions, problem types, and ad hoc</b>
           </li>
@@ -117,32 +127,37 @@ Although the USACO and most other major programming competitions only accept **C
           <li>For next week: try problems <em>Greedy Gift Givers, Friday the Thirteenth, and Broken Necklace</em>
           </li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+| Nov 2–Nov 8 | TBA |
+| :--- | :--- |
+
+
+| Nov 9–Nov 15 | Saturday, 8–11 pm: **Google Kick Start Round H** |
+| :--- | :--- |
+
+
+| Nov 16–Nov 22 | TBA |
+| :--- | :--- |
+
+
+| Nov 23–Nov 29 | TBA |
+| :--- | :--- |
+
+
+| Nov 30–Dec 6 | TBA |
+| :--- | :--- |
+
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Nov 2&#x2013;Nov 8</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Nov 9&#x2013;Nov 15</td>
-      <td style="text-align:left">Saturday, 8&#x2013;11 pm: <b>Google Kick Start Round H</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Nov 16&#x2013;Nov 22</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Nov 23&#x2013;Nov 29</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Nov 30&#x2013;Dec 6</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Dec 7&#x2013;Dec 13</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Dec 7&#x2013;Dec 13</th>
+      <th style="text-align:left">
         <ul>
           <li>A December of Algorithms
             <ul>
@@ -156,89 +171,110 @@ Although the USACO and most other major programming competitions only accept **C
             </ul>
           </li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+| Winter Break | &lt;b&gt;&lt;/b&gt;[**USACO**](resources/competitions.md#usa-computing-olympiad-usaco) **First Contest** typically takes place in December, date TBA |
+| :--- | :--- |
+
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Winter Break</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="resources/competitions.md#usa-computing-olympiad-usaco"><b>USACO</b></a><b> First Contest</b> typically
-        takes place in December, date TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Jan 4&#x2013;Jan 10</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Jan 4&#x2013;Jan 10</th>
+      <th style="text-align:left">
         <ul>
           <li>Discuss USACO questions when we get back from winter break</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+| Jan 11–Jan 17 | &lt;b&gt;&lt;/b&gt;[**USACO**](resources/competitions.md#usa-computing-olympiad-usaco) **Second Contest** typically takes place in January, date TBA |
+| :--- | :--- |
+
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Jan 11&#x2013;Jan 17</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="resources/competitions.md#usa-computing-olympiad-usaco"><b>USACO</b></a><b> Second Contest</b> typically
-        takes place in January, date TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Jan 18&#x2013;Jan 24</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Jan 18&#x2013;Jan 24</th>
+      <th style="text-align:left">
         <ul>
           <li>Discuss USACO questions</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+| Jan 25–Jan 31 | TBA |
+| :--- | :--- |
+
+
+| Feb 1–Feb 7 | TBA |
+| :--- | :--- |
+
+
+| Feb 8–Feb 14 | Tuesday: [**Canadian Computing Competition**](resources/competitions.md#canadian-computing-competition-ccc)&lt;b&gt;&lt;/b&gt; |
+| :--- | :--- |
+
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Jan 25&#x2013;Jan 31</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Feb 1&#x2013;Feb 7</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Feb 8&#x2013;Feb 14</td>
-      <td style="text-align:left">Tuesday: <a href="resources/competitions.md#canadian-computing-competition-ccc"><b>Canadian Computing Competition</b></a>&lt;b&gt;&lt;/b&gt;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Feb 15&#x2013;Feb 21</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Feb 15&#x2013;Feb 21</th>
+      <th style="text-align:left">
         <ul>
           <li>Discuss CCC</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+| Feb 22–Feb 28 | &lt;b&gt;&lt;/b&gt;[**USACO**](resources/competitions.md#usa-computing-olympiad-usaco) **Third Contest** typically takes place in February, date TBA |
+| :--- | :--- |
+
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Feb 22&#x2013;Feb 28</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="resources/competitions.md#usa-computing-olympiad-usaco"><b>USACO</b></a><b> Third Contest</b> typically
-        takes place in February, date TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Mar 1&#x2013;Mar 7</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Mar 1&#x2013;Mar 7</th>
+      <th style="text-align:left">
         <ul>
           <li>Discuss USACO questions</li>
         </ul>
-      </td>
+      </th>
     </tr>
-    <tr>
-      <td style="text-align:left">Mar 8&#x2013;Mar 14</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Mar 15&#x2013;Mar 21</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Mar 22&#x2013;Mar 28</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Mar 29&#x2013;Apr 4</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Apr 5&#x2013;Apr 11</td>
-      <td style="text-align:left">TBA</td>
-    </tr>
-  </tbody>
+  </thead>
+  <tbody></tbody>
 </table>
+
+| Mar 8–Mar 14 | TBA |
+| :--- | :--- |
+
+
+| Mar 15–Mar 21 | TBA |
+| :--- | :--- |
+
+
+| Mar 22–Mar 28 | TBA |
+| :--- | :--- |
+
+
+| Mar 29–Apr 4 | TBA |
+| :--- | :--- |
+
+
+| Apr 5–Apr 11 | TBA |
+| :--- | :--- |
 {% endtab %}
 
 {% tab title="Projects" %}

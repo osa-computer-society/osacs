@@ -1,8 +1,8 @@
-# Meeting 2
+# Meeting 1: Algorithms 101
 
 26 October 2020
 
-- [Meeting 2](#meeting-2)
+- [Meeting 1: Algorithms 101](#meeting-1-algorithms-101)
   - [Agenda](#agenda)
   - [Events/Reminders](#eventsreminders)
   - [Minutes](#minutes)

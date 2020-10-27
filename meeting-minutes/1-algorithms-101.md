@@ -153,15 +153,15 @@ Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We 
 7. Which of these notations gives the most precise bound on an algorithm's rate of growth?
    1. [x] Theta notation
 
-      We'll talk more about what rate of growth actually means later, but you should associate this with the equals \($=$\) sign. If we say "f is theta \($$\Theta$$\) of g" $$f = \Theta (g)$$ , that means that as the input size gets really big, f and g _asymptotically_ grow at the _same_ rate. \(This is an overgeneralization.\)
+      We'll talk more about what rate of growth actually means later, but you should associate this with the equals \(=\) sign. If we say "f is theta \($$\Theta$$\) of g" $$f = \Theta (g)$$ , that means that as the input size gets really big, f and g _asymptotically_ grow at the _same_ rate. \(This is an overgeneralization.\)
 
    2. [ ] Big O notation
 
-      A lot of people chose this, and you might have heard of Big O notation before. It's not the most precise, but it's more commonly used because it defines what we're usually concerned with: the _upper_ bound on an algorithm's rate of growth. You should associate this with the "less than or equal to" \($\le$\) sign. If we say "f is big O \(or just "O"\) of g" \($f = O\(g\)$\), that means that as the input size gets really big, f grows _asymptotically_ slower than g or at an equal rate to g.
+      A lot of people chose this, and you might have heard of Big O notation before. It's not the most precise, but it's more commonly used because it defines what we're usually concerned with: the _upper_ bound on an algorithm's rate of growth. You should associate this with the "less than or equal to" \($$\le$$\) sign. If we say "f is big O \(or just "O"\) of g" \($$f = O\(g\)$$\), that means that as the input size gets really big, f grows _asymptotically_ slower than g or at an equal rate to g.
 
    3. [ ] Small O notation
 
-      This also deals with the upper bound, but it's _strict_. You should associate this with the "less than" \($&lt;$\) sign. If we say "f is small o of g" \($f = o\(g\)$\), that means that f grows _asymptotically_ slower than g.
+      This also deals with the upper bound, but it's _strict_. You should associate this with the "less than" \($$&lt;$$\) sign. If we say "f is small o of g" \($$f = o\(g\)$$\), that means that f grows _asymptotically_ slower than g.
 
    4. [ ] Omega notation
 
@@ -193,21 +193,21 @@ Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We 
       This is NOT an actual way of storing colour information, although it are used in painting because red, yellow, and blue are similar to the primary colours of the subtractive colour system, magenta, yellow, and cyan respectively.
 
    5. Which one of these functions grows the fastest?
-   6. [ ] $n!$
+   6. [ ] $$n!$$
 
-      Comparing this to $n^n$, we can see that each number in $n! = n\cdot\(n-1\)\cdot\(n-2\)\cdots2\cdot 1$ is less than or equal to each number in $n^n = n \cdot n \cdots n$.
+      Comparing this to $$n^n$$, we can see that each number in $$n! = n\cdot\(n-1\)\cdot\(n-2\)\cdots2\cdot 1$$ is less than or equal to each number in $$n^n = n \cdot n \cdots n$$.
 
-   7. [x] $n^n$
+   7. [x] $$n^n$$
 
-      This function grows unbelievably fast. $2^2 = 4$, $4^4 = 256$, $6^6 = 46,556$, etc. You'll typically never see an algorithm this slow.
+      This function grows unbelievably fast. $$2^2 = 4$$, $$4^4 = 256$$, $$6^6 = 46,556$$, etc. You'll typically never see an algorithm this slow.
 
-   8. [ ] $2^n$
+   8. [ ] $$2^n$$
 
-      When our algorithm has a rate of growth of $O\(2^n\)$, we say that it runs in "exponential time".
+      When our algorithm has a rate of growth of $$O\(2^n\)$$, we say that it runs in "exponential time".
 
-   9. [ ] $n^2$
+   9. [ ] $$n^2$$
 
-      When our algorithm runs in $O\(n^k\)$ where $k$ is any integer, we say that it runs in "polynomial time". This is important when we consider NP-complete problems, which:
+      When our algorithm runs in $$O\(n^k\)$$ where $$k$$ is any integer, we say that it runs in "polynomial time". This is important when we consider NP-complete problems, which:
 
       1. We have never found a polynomial time solution for
       2. We haven't proven that a polynomial time solution _doesn't_ exist
@@ -243,7 +243,7 @@ The interesting thing to note about algorithms is that there could be infinitely
 1. Randomly shuffle the deck.
 2. If it's sorted, stop. Else, repeat.
 
-Probabilistically speaking, this will _eventually_ terminate \(although it does technically have an upper bound of infinity\) in about $n!$ shuffles. For a deck of 52 cards, that would be approximately
+Probabilistically speaking, this will _eventually_ terminate \(although it does technically have an upper bound of infinity\) in about $$n!$$ shuffles. For a deck of 52 cards, that would be approximately
 
 80658175170000000000000000000000000000000000000000000000000000000000
 
@@ -255,13 +255,13 @@ Let's break that down. The **running time** of an algorithm is the number of pri
 
 Usually, as the input increases in size, the algorithm will take more steps. Sorting a deck of 4 cards takes much less time than sorting a deck of 52. The question is, _how much_ less time? For some algorithms, the difference between them will not be that big, while for others, they might sort a deck of 4 in seconds but take several days to sort 52. In this case, the former has a _slower_ rate of growth, so we call it a _faster_ algorithm.
 
-You can also think about this visually using graphs. For example, visually speaking, the graph of $2^n$ \(in green\) grows faster than the graph of $n^2$ \(in blue\):
+You can also think about this visually using graphs. For example, visually speaking, the graph of $$2^n$$ \(in green\) grows faster than the graph of $$n^2$$ \(in blue\):
 
 ![rates of growth of 2^n and n^2](../.gitbook/assets/rate-of-growth.png)
 
 So just to clarify, if an running time grows _slowly,_ it's a _faster_ algorithm, and if the running time grows _quickly,_ it's a _slow_ algorithm.
 
-Since as $n$ gets really big, the smaller terms become insignificant, we usually only consider the leading term when analyzing an algorithm. For example, if we have an algorithm with a running time of $c\_1 x^2 + c\_2 x + c\_3$, we would say that the order of growth of this algorithm is $\Theta \(x^2\)$ \(read "theta of x^2"\).
+Since as n gets really big, the smaller terms become insignificant, we usually only consider the leading term when analyzing an algorithm. For example, if we have an algorithm with a running time of $$c\_1 x^2 + c\_2 x + c\_3$$, we would say that the order of growth of this algorithm is $$\Theta \(x^2\)$$ \(read "theta of x squared"\).
 
 We usually say one algorithm is better than another if its _worst-case_ running time has a lower rate of growth. The worst-case running time is simply the _longest time_ an algorithm will take for a given input size.
 
@@ -281,9 +281,9 @@ So, for example, if you have a really slow algorithm, you might be able to solve
 
 Most programming judges will run your program on a processor that runs at about 1 GHz \(gigahertz\), in other words, 1 billion operations per second. That means that if your program runs 1 billion operations, it'll take 1 second, which is usually the upper time limit for most competitions.
 
-Let's take a look at our first brute-force algorithm, where we go through all $n!$ possible orderings \(aka **permutations**\) of the deck of cards. Let's see if this algorithm would be able to pass the first test case and sort a deck of up to 12 cards in under 1 second.
+Let's take a look at our first brute-force algorithm, where we go through all $$n!$$ possible orderings \(aka **permutations**\) of the deck of cards. Let's see if this algorithm would be able to pass the first test case and sort a deck of up to 12 cards in under 1 second.
 
-Assuming it takes a constant number of steps to check each ordering, sorting 12 cards would take a total of approximately $12! = 479,001,600$ steps, which is comfortably less than 1 billion, so hooray! We're done the first test case!
+Assuming it takes a constant number of steps to check each ordering, sorting 12 cards would take a total of approximately $$12! = 479,001,600$$ steps, which is comfortably less than 1 billion, so hooray! We're done the first test case!
 
 Is our algorithm fast enough to pass the second test case, though? Clearly not — 13! is already 6,227,020,800, so it would take over 6 seconds to sort 13 cards, let alone 10,000, so we'll need a new algorithm for the next test case.
 
@@ -293,23 +293,25 @@ So once you've gone and done that \(give it a try, it might not be as easy as yo
 
 One way to approach this is to think about what orders of growth would work.
 
-* We've already seen that n! is way too big.
-* How about 2^n? Try plugging in $2^10,000$: also too big.
-* But $n^2$? Checking, we see that $10,000^2 = 100,000,000$, which will run in about 0.1 seconds, which works perfectly as a solution!
+* We've already seen that $$n!$$ is way too big.
+* How about $$2^n$$? Try plugging in $$2^10,000$$: also too big.
+* But $$n^2$$? Checking, we see that $$10,000^2 = 100,000,000$$, which will run in about 0.1 seconds, which works perfectly as a solution!
 
-There are a few sorting algorithms that have a worst-case running time of $O\(n^2\)$, such as [insertion sort](https://www.geeksforgeeks.org/insertion-sort/) or [bubble sort](https://www.geeksforgeeks.org/bubble-sort/). Once again, unless the algorithm for the next step is clear, I would take some time to implement this algorithm as well.
+There are a few sorting algorithms that have a worst-case running time of $$O\(n^2\)$$, such as [insertion sort](https://www.geeksforgeeks.org/insertion-sort/) or [bubble sort](https://www.geeksforgeeks.org/bubble-sort/). Once again, unless the algorithm for the next step is clear, I would take some time to implement this algorithm as well.
 
-Now onto the final test case! $10,000,000$ cards! "Is this even possible?" you might ask. "How can we have something smaller than $n^2$? Surely it can't be possible to sort a deck in $O\(n\)$ time!?"
+Now onto the final test case! $$10,000,000$$ cards! "Is this even possible?" you might ask. "How can we have something smaller than $$n^2$$? Surely it can't be possible to sort a deck in $$O\(n\)$$ time!?"
 
-Well, _actually_ yes \(see [radix sort](https://www.geeksforgeeks.org/radix-sort/) and [counting sort](https://www.geeksforgeeks.org/counting-sort/)\), but there's another level of complexity between linear and polynomial time, called "linearithmic" time, which is a word you should only use to confuse other people. It's $O\(n \log n\)$ time!
+Well, _actually_ yes \(see [radix sort](https://www.geeksforgeeks.org/radix-sort/) and [counting sort](https://www.geeksforgeeks.org/counting-sort/)\), but there's another level of complexity between linear and polynomial time, called "linearithmic" time, which is a word you should only use to confuse other people. It's $$O\(n \log n\)$$ time!
 
-What you should associate with $n \log n$ is that it's the LOWER bound for any _comparison_ sort, such as [merge sort](https://www.geeksforgeeks.org/merge-sort/) or [heap sort](https://www.geeksforgeeks.org/heap-sort/) \(remember talking about heaps earlier?\), both of which also have this condition.
+What you should associate with $$n \log n$$ is that it's the LOWER bound for any _comparison_ sort, such as [merge sort](https://www.geeksforgeeks.org/merge-sort/) or [heap sort](https://www.geeksforgeeks.org/heap-sort/) \(remember talking about heaps earlier?\), both of which also have this condition.
 
-* * If f\(n\) is the running time of a comparison sort and $g\(n\) = n \log n$, how would you write "g is the lower bound of f" \(or equivalently, f has a lower bound of g\) using omega notation?
+* * If f\(n\) is the running time of a comparison sort and $$g\(n\) = n \log n$$, how would you write "g is the lower bound of f" \(or equivalently, f has a lower bound of g\) using omega notation?
 
-Note that usually in programming, when you see logs, it's usually base 2 and not base 10, so calculating $n \log n$ for a value of 10,000,000, we get:
+Note that usually in programming, when you see logs, it's usually base 2 and not base 10, so calculating $$n \log n$$ for a value of 10,000,000, we get:
 
-$$10^7 \cdot \log_2 (10^7) \approx 232,534,967$$
+$$
+10^7 \cdot \log_2 (10^7) \approx 232,534,967
+$$
 
 which runs in under 1 second, so this algorithm will solve our final test case and we'll have fully solved the problem!
 

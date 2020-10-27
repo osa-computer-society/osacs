@@ -19,11 +19,11 @@ We're planning to hold weekly meetings at a time to be determined! Clubs officia
 
 * ~~Club Application will go out: Friday Sept 11~~
 * ~~Club Application Deadline: Friday Sept 25~~
-* Club Approval by: Wednesday Sept 30
-* Teacher Advisors choose club: Sept 30 - Oct 4
-* Teacher Advisor/Exec Choose Club Time Slot: Oct 5 - 9
-* Club Fair Planning: Oct 5 - 9
-* Club Fair: Oct 13 - 16
+* ~~Club Approval by: Wednesday Sept 30~~
+* ~~Teacher Advisors choose club: Sept 30 - Oct 4~~
+* ~~Teacher Advisor/Exec Choose Club Time Slot: Oct 5 - 9~~
+* ~~Club Fair Planning: Oct 5 - 9~~
+* ~~Club Fair: Oct 13 - 16~~
 
 Check out the following tabs for more info!
 

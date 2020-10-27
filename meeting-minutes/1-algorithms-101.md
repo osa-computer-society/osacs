@@ -153,19 +153,19 @@ Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We 
 7. Which of these notations gives the most precise bound on an algorithm's rate of growth?
    1. [x] Theta notation
 
-      We'll talk more about what rate of growth actually means later, but you should associate this with the equals \(=\) sign. If we say "f is theta \($$\Theta$$\) of g" $$f = \Theta (g)$$ , that means that as the input size gets really big, f and g _asymptotically_ grow at the _same_ rate. \(This is an overgeneralization.\)
+      We'll talk more about what rate of growth actually means later, but you should associate this with the equals \(=\) sign. If we say "f is theta \($$\Theta$$\) of g", or $$f = \Theta (g)$$ , that means that as the input size gets really big, f and g _asymptotically_ grow at the _same_ rate. \(This is an overgeneralization.\)
 
    2. [ ] Big O notation
 
-      A lot of people chose this, and you might have heard of Big O notation before. It's not the most precise, but it's more commonly used because it defines what we're usually concerned with: the _upper_ bound on an algorithm's rate of growth. You should associate this with the "less than or equal to" \($$\le$$\) sign. If we say "f is big O \(or just "O"\) of g" \($$f = O(g)$$\), that means that as the input size gets really big, f grows _asymptotically_ slower than g or at an equal rate to g.
+      A lot of people chose this, and you might have heard of Big O notation before. It's not the most precise, but it's more commonly used because it defines what we're usually concerned with: the _upper_ bound on an algorithm's rate of growth. You should associate this with the "less than or equal to" \($$\le$$\) sign. If we say "f is big O \(or just "O"\) of g", or $$f = O(g)$$, that means that as the input size gets really big, f grows _asymptotically_ slower than g or at an equal rate to g.
 
    3. [ ] Small O notation
 
-      This also deals with the upper bound, but it's _strict_. You should associate this with the "less than" \(&lt;\) sign. If we say "f is small o of g" \($$f = o(g)$$\), that means that f grows _asymptotically_ slower than g.
+      This also deals with the upper bound, but it's _strict_. You should associate this with the "less than" \(&lt;\) sign. If we say "f is small o of g", or $$f = o(g)$$, that means that f grows _asymptotically_ slower than g.
 
    4. [ ] Omega notation
 
-      While O notation deals with the upper bound, omega notation deals with the lower bound in the same way; Big omega is not strict, while small omega is strict \(\)
+      While O notation deals with the upper bound, omega notation deals with the lower bound in the same way. Big omega is not strict \( $$\gt$$ \), while small omega is strict \(&gt;\). If we say "f is big omega of g", or $$f = \Omega(g)$$, then that means f grows at least as fast as g, while if we say "f is small omega of g", or $$f = \omega(g)$$ , that means f grows strictly faster than g.
 8. Which of these languages is most commonly used for machine learning?
 
    1. [ ] Rust

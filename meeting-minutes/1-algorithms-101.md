@@ -116,56 +116,56 @@ Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We 
 
    Unreal Engine and Unity are two of the most widely used game engines, even for some industry-level games. Godot is another fun engine. Visual Studio is an IDE used to write code using the Microsoft .NET family of languages and it's also the editor which Unity uses for coding in C\#.
 
-5. Which of these structures always stores a **SORTED** list of objects?
-   1. [x] Heap
+5. Which of these structures always stores a **SORTED** list of objects? 1. \[x\] Heap
 
-      Only 1 person got this one right, so if these are new to you, don't worry! A **heap** is a data structure which always stores a **sorted** list of elements. We'll talk more about how heaps are actually implemented later on.
+   Only 1 person got this one right, so if these are new to you, don't worry! A **heap** is a data structure which always stores a **sorted** list of elements. We'll talk more about how heaps are actually implemented later on.
 
-   2. [ ] Set
+   1. [ ] Set
 
       A set is a collection of **unique** objects; you can't add an element to a set more than once.
 
-   3. [ ] Array
+   2. [ ] Array
 
       You've probably seen arrays, which store a collection of objects of the same type, like a list of integers or a list of strings.
 
-   4. [ ] Stack
+   3. [ ] Stack
 
       A **stack** is like a stack of plates; you can only add new plates on top and take off new plates from the top. The first plate you put down is going to be the last plate that comes off, so we call it "First In, First Out", or "FIFO".
 
       Similar to a stack is a **queue**, which is like a queue at the chesckout line at the grocery store. The first person to get in line is going to be the first person out, so we call it "First In, Last Out", or "FILO".
-6. What software do MOST programmers use to manage versions of their code?
-   1. [x] Git
 
-      Git is the most widely used version control software, which is used for managing different versions of your code.
+6. What software do MOST programmers use to manage versions of their code? 1. \[x\] Git
 
-   2. [ ] Common Lisp
+   Git is the most widely used version control software, which is used for managing different versions of your code.
+
+   1. [ ] Common Lisp
 
       This is a [programming language](https://lisp-lang.org/).
 
-   3. [ ] Google Drive
+   2. [ ] Google Drive
 
       Theoretically, you _could_ use Google Drive for version control if you really wanted to, but it really isn't designed for code at all.
 
-   4. [ ] None
+   3. [ ] None
 
       For smaller projects, this is fine, but as soon as you're working on something for the long term, you'll want a way to track down where bugs occur in your code.
-7. Which of these notations gives the most precise bound on an algorithm's rate of growth?
-   1. [x] Theta notation
 
-      We'll talk more about what rate of growth actually means later, but you should associate this with the equals \(=\) sign. If we say "f is theta \($$\Theta$$\) of g" $$f = \Theta (g)$$ , that means that as the input size gets really big, f and g _asymptotically_ grow at the _same_ rate. \(This is an overgeneralization.\)
+7. Which of these notations gives the most precise bound on an algorithm's rate of growth? 1. \[x\] Theta notation
 
-   2. [ ] Big O notation
+   We'll talk more about what rate of growth actually means later, but you should associate this with the equals \(=\) sign. If we say "f is theta \($$\Theta$$\) of g" $$f = \Theta (g)$$ , that means that as the input size gets really big, f and g _asymptotically_ grow at the _same_ rate. \(This is an overgeneralization.\)
 
-      A lot of people chose this, and you might have heard of Big O notation before. It's not the most precise, but it's more commonly used because it defines what we're usually concerned with: the _upper_ bound on an algorithm's rate of growth. You should associate this with the "less than or equal to" \($$\le$$\) sign. If we say "f is big O \(or just "O"\) of g" \($$f = O\(g\)$$\), that means that as the input size gets really big, f grows _asymptotically_ slower than g or at an equal rate to g.
+   1. [ ] Big O notation
 
-   3. [ ] Small O notation
+      A lot of people chose this, and you might have heard of Big O notation before. It's not the most precise, but it's more commonly used because it defines what we're usually concerned with: the _upper_ bound on an algorithm's rate of growth. You should associate this with the "less than or equal to" \($$\le$$\) sign. If we say "f is big O \(or just "O"\) of g" \($$f = O(g)$$\), that means that as the input size gets really big, f grows _asymptotically_ slower than g or at an equal rate to g.
 
-      This also deals with the upper bound, but it's _strict_. You should associate this with the "less than" \($$&lt;$$\) sign. If we say "f is small o of g" \($$f = o\(g\)$$\), that means that f grows _asymptotically_ slower than g.
+   2. [ ] Small O notation
 
-   4. [ ] Omega notation
+      This also deals with the upper bound, but it's _strict_. You should associate this with the "less than" \(&lt;\) sign. If we say "f is small o of g" \($$f = o(g)$$\), that means that f grows _asymptotically_ slower than g.
+
+   3. [ ] Omega notation
 
       While O notation deals with the upper bound, omega notation deals with the lower bound in the same way; Big omega is not strict, while small omega is strict \(\)
+
 8. Which of these languages is most commonly used for machine learning?
 
    1. [ ] Rust
@@ -175,39 +175,38 @@ Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We 
 
    Although Python is a very high-level language so it's considered slower than compiled languages like Rust or C, it takes much less time to actually write the code using many of the libraries and tools available.
 
-9. Which of these is NOT a common way of storing colour information?
-   1. [ ] Red Green Blue \(RGB\)
+9. Which of these is NOT a common way of storing colour information? 1. \[ \] Red Green Blue \(RGB\)
 
-      These are the three types of cones in your eye and form the primary colours of "additive" colour, which means that if you produce red, green, and blue light at the same time, their wavelengths will add to form white.
+   These are the three types of cones in your eye and form the primary colours of "additive" colour, which means that if you produce red, green, and blue light at the same time, their wavelengths will add to form white.
 
-   2. [ ] Cyan Magenta Yellow Black \(CMYK\)
+   1. [ ] Cyan Magenta Yellow Black \(CMYK\)
 
       If you ever need to refill your colour printer, you'll need to buy cartridges of cyan, magenta, yellow, or toner.
 
-   3. [ ] Hue Saturation Brightness \(HSB\)
+   2. [ ] Hue Saturation Brightness \(HSB\)
 
       Hue ranges across red, green, and blue on a colour wheel from 0 to 360 degrees. Saturation is a measure of how dull \(0\) or full \(100\) your colour is, and brightness ranges from full brightness \(100\) to black \(0\). Often used in colour pickers.
 
-   4. [x] Red Yellow Blue \(RYB\)
+   3. [x] Red Yellow Blue \(RYB\)
 
       This is NOT an actual way of storing colour information, although it are used in painting because red, yellow, and blue are similar to the primary colours of the subtractive colour system, magenta, yellow, and cyan respectively.
 
-   5. Which one of these functions grows the fastest?
-   6. [ ] $$n!$$
+   4. Which one of these functions grows the fastest?
+   5. [ ] $$n!$$
 
-      Comparing this to $$n^n$$, we can see that each number in $$n! = n\cdot\(n-1\)\cdot\(n-2\)\cdots2\cdot 1$$ is less than or equal to each number in $$n^n = n \cdot n \cdots n$$.
+      Comparing this to $$n^n$$, we can see that each number in $$n! = n\cdot(n-1)\cdot(n-2)\cdots2\cdot 1$$ is less than or equal to each number in $$n^n = n \cdot n \cdots n$$.
 
-   7. [x] $$n^n$$
+   6. [x] $$n^n$$
 
       This function grows unbelievably fast. $$2^2 = 4$$, $$4^4 = 256$$, $$6^6 = 46,556$$, etc. You'll typically never see an algorithm this slow.
 
-   8. [ ] $$2^n$$
+   7. [ ] $$2^n$$
 
-      When our algorithm has a rate of growth of $$O\(2^n\)$$, we say that it runs in "exponential time".
+      When our algorithm has a rate of growth of $$O(2^n)$$, we say that it runs in "exponential time".
 
-   9. [ ] $$n^2$$
+   8. [ ] $$n^2$$
 
-      When our algorithm runs in $$O\(n^k\)$$ where $$k$$ is any integer, we say that it runs in "polynomial time". This is important when we consider NP-complete problems, which:
+      When our algorithm runs in $$O(n^k)$$ where $$k$$ is any integer, we say that it runs in "polynomial time". This is important when we consider NP-complete problems, which:
 
       1. We have never found a polynomial time solution for
       2. We haven't proven that a polynomial time solution _doesn't_ exist
@@ -261,7 +260,7 @@ You can also think about this visually using graphs. For example, visually speak
 
 So just to clarify, if an running time grows _slowly,_ it's a _faster_ algorithm, and if the running time grows _quickly,_ it's a _slow_ algorithm.
 
-Since as n gets really big, the smaller terms become insignificant, we usually only consider the leading term when analyzing an algorithm. For example, if we have an algorithm with a running time of $$c\_1 x^2 + c\_2 x + c\_3$$, we would say that the order of growth of this algorithm is $$\Theta \(x^2\)$$ \(read "theta of x squared"\).
+Since as n gets really big, the smaller terms become insignificant, we usually only consider the leading term when analyzing an algorithm. For example, if we have an algorithm with a running time that is always $$c\_1 x^2 + c\_2 x + c\_3$$, where x is the size of the input, we would say that the order of growth of this algorithm is $$\Theta (x^2)$$ \(read "theta of x squared"\).
 
 We usually say one algorithm is better than another if its _worst-case_ running time has a lower rate of growth. The worst-case running time is simply the _longest time_ an algorithm will take for a given input size.
 
@@ -297,15 +296,15 @@ One way to approach this is to think about what orders of growth would work.
 * How about $$2^n$$? Try plugging in $$2^10,000$$: also too big.
 * But $$n^2$$? Checking, we see that $$10,000^2 = 100,000,000$$, which will run in about 0.1 seconds, which works perfectly as a solution!
 
-There are a few sorting algorithms that have a worst-case running time of $$O\(n^2\)$$, such as [insertion sort](https://www.geeksforgeeks.org/insertion-sort/) or [bubble sort](https://www.geeksforgeeks.org/bubble-sort/). Once again, unless the algorithm for the next step is clear, I would take some time to implement this algorithm as well.
+There are a few sorting algorithms that have a worst-case running time of $$O(n^2)$$, such as [insertion sort](https://www.geeksforgeeks.org/insertion-sort/) or [bubble sort](https://www.geeksforgeeks.org/bubble-sort/). Once again, unless the algorithm for the next step is clear, I would take some time to implement this algorithm as well.
 
-Now onto the final test case! $$10,000,000$$ cards! "Is this even possible?" you might ask. "How can we have something smaller than $$n^2$$? Surely it can't be possible to sort a deck in $$O\(n\)$$ time!?"
+Now onto the final test case! $$10,000,000$$ cards! "Is this even possible?" you might ask. "How can we have something smaller than $$n^2$$? Surely it can't be possible to sort a deck in $$O(n)$$ time!?"
 
-Well, _actually_ yes \(see [radix sort](https://www.geeksforgeeks.org/radix-sort/) and [counting sort](https://www.geeksforgeeks.org/counting-sort/)\), but there's another level of complexity between linear and polynomial time, called "linearithmic" time, which is a word you should only use to confuse other people. It's $$O\(n \log n\)$$ time!
+Well, _actually_ yes \(see [radix sort](https://www.geeksforgeeks.org/radix-sort/) and [counting sort](https://www.geeksforgeeks.org/counting-sort/)\), but there's another level of complexity between linear and polynomial time, called "linearithmic" time, which is a word you should only use to confuse other people. It's $$O(n \log n)$$ time!
 
 What you should associate with $$n \log n$$ is that it's the LOWER bound for any _comparison_ sort, such as [merge sort](https://www.geeksforgeeks.org/merge-sort/) or [heap sort](https://www.geeksforgeeks.org/heap-sort/) \(remember talking about heaps earlier?\), both of which also have this condition.
 
-* * If f\(n\) is the running time of a comparison sort and $$g\(n\) = n \log n$$, how would you write "g is the lower bound of f" \(or equivalently, f has a lower bound of g\) using omega notation?
+* * If f\(n\) is the running time of a comparison sort and $$g(n) = n \log n$$, how would you write "g is the lower bound of f" \(or equivalently, f has a lower bound of g\) using omega notation?
 
 Note that usually in programming, when you see logs, it's usually base 2 and not base 10, so calculating $$n \log n$$ for a value of 10,000,000, we get:
 

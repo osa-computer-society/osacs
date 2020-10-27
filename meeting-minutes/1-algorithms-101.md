@@ -181,19 +181,21 @@ Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We 
 
    Although Python is a very high-level language so it's considered slower than compiled languages like Rust or C, it takes much less time to actually write the code using many of the libraries and tools available.
 
-9. Which of these is NOT a common way of storing colour information? 1. \[ \] Red Green Blue \(RGB\)
+9. Which of these is NOT a common way of storing colour information?
 
-   These are the three types of cones in your eye and form the primary colours of "additive" colour, which means that if you produce red, green, and blue light at the same time, their wavelengths will add to form white.
+   1. [ ] Red Green Blue \(RGB\)
 
-   1. [ ] Cyan Magenta Yellow Black \(CMYK\)
+      These are the three types of cones in your eye and form the primary colours of "additive" colour, which means that if you produce red, green, and blue light at the same time, their wavelengths will add to form white.
+
+   2. [ ] Cyan Magenta Yellow Black \(CMYK\)
 
       If you ever need to refill your colour printer, you'll need to buy cartridges of cyan, magenta, yellow, or toner.
 
-   2. [ ] Hue Saturation Brightness \(HSB\)
+   3. [ ] Hue Saturation Brightness \(HSB\)
 
       Hue ranges across red, green, and blue on a colour wheel from 0 to 360 degrees. Saturation is a measure of how dull \(0\) or full \(100\) your colour is, and brightness ranges from full brightness \(100\) to black \(0\). Often used in colour pickers.
 
-   3. [x] Red Yellow Blue \(RYB\)
+   4. [x] Red Yellow Blue \(RYB\)
 
       This is NOT an actual way of storing colour information, although it are used in painting because red, yellow, and blue are similar to the primary colours of the subtractive colour system, magenta, yellow, and cyan respectively.
 

@@ -116,53 +116,59 @@ Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We 
 
    Unreal Engine and Unity are two of the most widely used game engines, even for some industry-level games. Godot is another fun engine. Visual Studio is an IDE used to write code using the Microsoft .NET family of languages and it's also the editor which Unity uses for coding in C\#.
 
-5. Which of these structures always stores a **SORTED** list of objects? 1. \[x\] Heap
+5. Which of these structures always stores a **SORTED** list of objects?
 
-   Only 1 person got this one right, so if these are new to you, don't worry! A **heap** is a data structure which always stores a **sorted** list of elements. We'll talk more about how heaps are actually implemented later on.
+   1. [x] Heap
 
-   1. [ ] Set
+      Only 1 person got this one right, so if these are new to you, don't worry! A **heap** is a data structure which always stores a **sorted** list of elements. We'll talk more about how heaps are actually implemented later on.
+
+   2. [ ] Set
 
       A set is a collection of **unique** objects; you can't add an element to a set more than once.
 
-   2. [ ] Array
+   3. [ ] Array
 
       You've probably seen arrays, which store a collection of objects of the same type, like a list of integers or a list of strings.
 
-   3. [ ] Stack
+   4. [ ] Stack
 
       A **stack** is like a stack of plates; you can only add new plates on top and take off new plates from the top. The first plate you put down is going to be the last plate that comes off, so we call it "First In, First Out", or "FIFO".
 
       Similar to a stack is a **queue**, which is like a queue at the chesckout line at the grocery store. The first person to get in line is going to be the first person out, so we call it "First In, Last Out", or "FILO".
 
-6. What software do MOST programmers use to manage versions of their code? 1. \[x\] Git
+6. What software do MOST programmers use to manage versions of their code?
 
-   Git is the most widely used version control software, which is used for managing different versions of your code.
+   1. [x] Git
 
-   1. [ ] Common Lisp
+      Git is the most widely used version control software, which is used for managing different versions of your code.
+
+   2. [ ] Common Lisp
 
       This is a [programming language](https://lisp-lang.org/).
 
-   2. [ ] Google Drive
+   3. [ ] Google Drive
 
       Theoretically, you _could_ use Google Drive for version control if you really wanted to, but it really isn't designed for code at all.
 
-   3. [ ] None
+   4. [ ] None
 
       For smaller projects, this is fine, but as soon as you're working on something for the long term, you'll want a way to track down where bugs occur in your code.
 
-7. Which of these notations gives the most precise bound on an algorithm's rate of growth? 1. \[x\] Theta notation
+7. Which of these notations gives the most precise bound on an algorithm's rate of growth?
 
-   We'll talk more about what rate of growth actually means later, but you should associate this with the equals \(=\) sign. If we say "f is theta \($$\Theta$$\) of g" $$f = \Theta (g)$$ , that means that as the input size gets really big, f and g _asymptotically_ grow at the _same_ rate. \(This is an overgeneralization.\)
+   1. [x] Theta notation
 
-   1. [ ] Big O notation
+      We'll talk more about what rate of growth actually means later, but you should associate this with the equals \(=\) sign. If we say "f is theta \($$\Theta$$\) of g" $$f = \Theta (g)$$ , that means that as the input size gets really big, f and g _asymptotically_ grow at the _same_ rate. \(This is an overgeneralization.\)
+
+   2. [ ] Big O notation
 
       A lot of people chose this, and you might have heard of Big O notation before. It's not the most precise, but it's more commonly used because it defines what we're usually concerned with: the _upper_ bound on an algorithm's rate of growth. You should associate this with the "less than or equal to" \($$\le$$\) sign. If we say "f is big O \(or just "O"\) of g" \($$f = O(g)$$\), that means that as the input size gets really big, f grows _asymptotically_ slower than g or at an equal rate to g.
 
-   2. [ ] Small O notation
+   3. [ ] Small O notation
 
       This also deals with the upper bound, but it's _strict_. You should associate this with the "less than" \(&lt;\) sign. If we say "f is small o of g" \($$f = o(g)$$\), that means that f grows _asymptotically_ slower than g.
 
-   3. [ ] Omega notation
+   4. [ ] Omega notation
 
       While O notation deals with the upper bound, omega notation deals with the lower bound in the same way; Big omega is not strict, while small omega is strict \(\)
 
@@ -191,29 +197,30 @@ Congratulations to Caleb for winning and Madhav and Frank as the runner-ups! We 
 
       This is NOT an actual way of storing colour information, although it are used in painting because red, yellow, and blue are similar to the primary colours of the subtractive colour system, magenta, yellow, and cyan respectively.
 
-   4. Which one of these functions grows the fastest?
-   5. [ ] $$n!$$
+10. Which one of these functions grows the fastest?
 
-      Comparing this to $$n^n$$, we can see that each number in $$n! = n\cdot(n-1)\cdot(n-2)\cdots2\cdot 1$$ is less than or equal to each number in $$n^n = n \cdot n \cdots n$$.
+    1. [ ] $$n!$$
 
-   6. [x] $$n^n$$
+         Comparing this to $$n^n$$, we can see that each number in $$n! = n\cdot(n-1)\cdot(n-2)\cdots2\cdot 1$$ is less than or equal to each number in $$n^n = n \cdot n \cdots n$$.
 
-      This function grows unbelievably fast. $$2^2 = 4$$, $$4^4 = 256$$, $$6^6 = 46,556$$, etc. You'll typically never see an algorithm this slow.
+    2. [x] $$n^n$$
 
-   7. [ ] $$2^n$$
+         This function grows unbelievably fast. $$2^2 = 4$$, $$4^4 = 256$$, $$6^6 = 46,556$$, etc. You'll typically never see an algorithm this slow.
 
-      When our algorithm has a rate of growth of $$O(2^n)$$, we say that it runs in "exponential time".
+    3. [ ] $$2^n$$
 
-   8. [ ] $$n^2$$
+         When our algorithm has a rate of growth of $$O(2^n)$$, we say that it runs in "exponential time".
 
-      When our algorithm runs in $$O(n^k)$$ where $$k$$ is any integer, we say that it runs in "polynomial time". This is important when we consider NP-complete problems, which:
+    4. [ ] $$n^2$$
 
-      1. We have never found a polynomial time solution for
-      2. We haven't proven that a polynomial time solution _doesn't_ exist
-      3. If a polynomial time algorithm exists for one NP-complete problem, then polynomial time algorithms exist for _all_ of them
-      4. Some are very similar to problems which _can_ be solved in polynomial time, but with only a few conditions changed.
+         When our algorithm runs in $$O(n^k)$$ where $$k$$ is any integer, we say that it runs in "polynomial time". This is important when we consider NP-complete problems, which:
 
-      They're a very hot topic of research and very interesting because of their practicality! The Traveling Salesman Problem is one of the most famous examples.
+         1. We have never found a polynomial time solution for
+         2. We haven't proven that a polynomial time solution _doesn't_ exist
+         3. If a polynomial time algorithm exists for one NP-complete problem, then polynomial time algorithms exist for _all_ of them
+         4. Some are very similar to problems which _can_ be solved in polynomial time, but with only a few conditions changed.
+
+         They're a very hot topic of research and very interesting because of their practicality! The Traveling Salesman Problem is one of the most famous examples.
 
 ### 3. Hacktoberfest
 

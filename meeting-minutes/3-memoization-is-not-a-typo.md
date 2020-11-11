@@ -11,7 +11,7 @@
   * [ ] Discuss an $$O(n^2)$$ solution for Broken Necklace
   * [ ] Introduction to Dynamic Programming and the Knapsack Problem
 * Game dev:
-  * I trust Edward is doing a fantastic job &lt;3 
+  * [x] Get the ball rolling \(literally\) and code movement + camera scripts
 * As usual, we'll also have a room open if you want help with your schoolwork or just want to chat about anything else computer science related!
 
 ### Upcoming Events

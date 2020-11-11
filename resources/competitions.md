@@ -47,7 +47,7 @@ You can compete in the Junior or Senior level, depending on how confident you ar
 > Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google \(top participants may be invited to interview at Google\).
 
 * ~~**Round F: 26 September 2020, 18:00–21:00**~~
-* **Round G: 18 October 2020, 06:00–09:00**
+* ~~**Round G: 18 October 2020, 06:00–09:00**~~
 * **Round H: 14 November 2020, 20:00–23:00**
 * Registration cost: FREE
 * 4 questions, 3 hours

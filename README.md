@@ -6,6 +6,10 @@ description: >-
 
 # OSACS
 
+{% hint style="info" %}
+**IMPORTANT ANNOUNCEMENTS:** Grades 7–12 will be learning **at home** from **November 30th to January 11th**! Stay safe and well everyone!
+{% endhint %}
+
 Here are some of the things we do:
 
 * Organize [coding competitions](resources/competitions.md) throughout the year, including \(but not limited to\):

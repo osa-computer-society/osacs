@@ -13,19 +13,11 @@ Your execs this year are:
 
 Now that everything is online, it's a great time to learn what your computer can do! Check out [our resources page](resources/resources.md) for useful links to get started.
 
-We're planning to hold weekly meetings at a time to be determined! Clubs officially start in October, so stay tuned!
-
-### Official Students' Union Club Schedule
-
-* ~~Club Application will go out: Friday Sept 11~~
-* ~~Club Application Deadline: Friday Sept 25~~
-* ~~Club Approval by: Wednesday Sept 30~~
-* ~~Teacher Advisors choose club: Sept 30 - Oct 4~~
-* ~~Teacher Advisor/Exec Choose Club Time Slot: Oct 5 - 9~~
-* ~~Club Fair Planning: Oct 5 - 9~~
-* ~~Club Fair: Oct 13 - 16~~
+We hold weekly meetings on **Mondays from 7:45 to 8:30 pm through Google Meet**!
 
 Check out the following tabs for more info!
+
+There will be **no** meetings from December 14 to January 11 due to winter break and SU events.
 
 {% tabs %}
 {% tab title="Discord" %}
@@ -61,220 +53,15 @@ Alumni as well as students from other schools are totally welcome! We've set up 
 {% tab title="Algorithms" %}
 Hey Olympians, Alex here! This year, I'm going to be running a small preparation group for algorithms and programming competitions.
 
-These competitions are really important if you're planning to work in software development at a large company \(think Google or Facebook\), because these concepts often show up on their recruitment interviews.
+These competitions are really important if you're planning to work in software development at a large company \(think Google or Facebook\), because these concepts often show up on their recruitment interviews. They're also used for admission to the University of Waterloo and can demonstrate challenge-taking on a resume
 
 Practicing these problems are also great for honing your problem-solving and logical thinking skills. If you've ever written math competitions before, you'll understand the thrill that can come with finally cracking a challenging problem!
 
-We'll be using [the USACO training portal](https://train.usaco.org/) as a curriculum for preparation. However, as it says in the introduction:
+Most of our time will be spent going over the problems and learning the concepts through practice. Keep in mind that our club is purely for interest and you should put your schoolwork first!
 
-> This website includes training for students who typically have a year or two of programming experience and also have interest in 'algorithmic programming'. The techniques taught and drilled here are **difficult**. Expect to spend anywhere from a few minutes to **several hours per problem** if you are an excellent programmer. Beginners will not enjoy these problems, as they require extensive practice and experience.
+Although the USACO, CCC, and most other major programming competitions only accept **C, C++, Pascal, Java, and Python,** if you're more familiar with another language, feel free to share your solution with me and I can check if it's correct \(although if you plan to write the competitions it may well be worth it to learn one of the supported languages; see our [Competitions](resources/competitions.md) page for details\).
 
-As you can tell, these problems are **not** for the faint of heart, haha! Most of our time will be spent going over the problems and learning the concepts through practice. Keep in mind that our club is purely for interest and you should put your schoolwork first.
-
-Although the USACO and most other major programming competitions only accept **C, C++, Pascal, Java, and Python,** if you're more familiar with another language, feel free to share your solution with me and I can check if it's correct \(although if you plan to write the competitions it may well be worth it to learn one of the supported languages; see our [Competitions](resources/competitions.md) page for details\).
-
-## Schedule
-
-| Week | _Rough_ Plan |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Oct 12&#x2013;Oct 18</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Club Fair!</li>
-          <li>Welcome!</li>
-          <li>Icebreakers and introductions</li>
-          <li>Decide on a meeting time</li>
-          <li>Join our Discord server</li>
-        </ul>
-        <p>Sunday from 6&#x2013;9 am: <b>Google Kick Start Round G</b>
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Oct 19&#x2013;Oct 25</th>
-      <th style="text-align:left">
-        <ul>
-          <li>What are algorithms, and why should I care?</li>
-          <li>Getting started on USACO training (<b>Section 1.1: Introduction</b>)</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Oct 26&#x2013;Nov 1</th>
-      <th style="text-align:left">
-        <ul>
-          <li><b>Section 1.2: Submitting solutions, problem types, and ad hoc</b>
-          </li>
-          <li>Solve problem <em>Your Ride is Here</em>
-          </li>
-          <li>For next week: try problems <em>Greedy Gift Givers, Friday the Thirteenth, and Broken Necklace</em>
-          </li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-| Nov 2–Nov 8 | TBA |
-| :--- | :--- |
-
-
-| Nov 9–Nov 15 | Saturday, 8–11 pm: **Google Kick Start Round H** |
-| :--- | :--- |
-
-
-| Nov 16–Nov 22 | TBA |
-| :--- | :--- |
-
-
-| Nov 23–Nov 29 | TBA |
-| :--- | :--- |
-
-
-| Nov 30–Dec 6 | TBA |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Dec 7&#x2013;Dec 13</th>
-      <th style="text-align:left">
-        <ul>
-          <li>A December of Algorithms
-            <ul>
-              <li>A fun little Christmas-themed collection of problems that takes place
-                each December on GitHub.</li>
-              <li>This is a great opportunity to try out solving problems with a new programming
-                language!</li>
-              <li>Working in groups is totally encouraged; we&apos;ll probably go through
-                a lot of the problems together and see if we can earn the certificate as
-                a team!</li>
-            </ul>
-          </li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-| Winter Break | &lt;b&gt;&lt;/b&gt;[**USACO**](resources/competitions.md#usa-computing-olympiad-usaco) **First Contest** typically takes place in December, date TBA |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Jan 4&#x2013;Jan 10</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Discuss USACO questions when we get back from winter break</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-| Jan 11–Jan 17 | &lt;b&gt;&lt;/b&gt;[**USACO**](resources/competitions.md#usa-computing-olympiad-usaco) **Second Contest** typically takes place in January, date TBA |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Jan 18&#x2013;Jan 24</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Discuss USACO questions</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-| Jan 25–Jan 31 | TBA |
-| :--- | :--- |
-
-
-| Feb 1–Feb 7 | TBA |
-| :--- | :--- |
-
-
-| Feb 8–Feb 14 | Tuesday: [**Canadian Computing Competition**](resources/competitions.md#canadian-computing-competition-ccc)&lt;b&gt;&lt;/b&gt; |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Feb 15&#x2013;Feb 21</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Discuss CCC</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-| Feb 22–Feb 28 | &lt;b&gt;&lt;/b&gt;[**USACO**](resources/competitions.md#usa-computing-olympiad-usaco) **Third Contest** typically takes place in February, date TBA |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Mar 1&#x2013;Mar 7</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Discuss USACO questions</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-| Mar 8–Mar 14 | TBA |
-| :--- | :--- |
-
-
-| Mar 15–Mar 21 | TBA |
-| :--- | :--- |
-
-
-| Mar 22–Mar 28 | TBA |
-| :--- | :--- |
-
-
-| Mar 29–Apr 4 | TBA |
-| :--- | :--- |
-
-
-| Apr 5–Apr 11 | TBA |
-| :--- | :--- |
+You can find further resources on [our resources page](resources/resources.md#competitive-programming)!
 {% endtab %}
 
 {% tab title="Projects" %}

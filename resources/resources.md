@@ -57,7 +57,8 @@ Opinionated advice: React is good, but overhyped. [Svelte](https://svelte.dev/) 
 * \*\*\*\*[**CryptoHack**](https://cryptohack.org/): A great platform for learning modern cryptography.
 * [TheCyberMentor](https://www.youtube.com/watch?v=WnN6dbos5u8)'s YouTube Channel.
 * [CTF Time](https://ctftime.org/): A website to find CTF opportunities around the world.
-* [Information Security Sessions](https://issessions.ca/resources/): Find great talks and resources about 
+* [Information Security Sessions](https://issessions.ca/resources/): Find great talks and resources about  InfoSec.
+* [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/): a free book about how communications are kept secure.
 
 ## Competitive Programming
 

@@ -22,5 +22,5 @@
 * [1. Algorithms 101](meeting-minutes/1-algorithms-101.md)
 * [2. Space Invaders](meeting-minutes/2-space-invaders.md)
 * [3. Memoization is not a typo](meeting-minutes/3-memoization-is-not-a-typo.md)
-* [4. MINECRAFT!!!](meeting-minutes/4.-minecraft.md)
+* [4. Minecraft!!!](meeting-minutes/4.-minecraft.md)
 

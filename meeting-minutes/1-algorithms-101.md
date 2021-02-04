@@ -305,7 +305,7 @@ Well, _actually_ yes \(see [radix sort](https://www.geeksforgeeks.org/radix-sort
 What you should associate with $$n \log n$$ is that it's the LOWER bound for any _comparison_ sort, such as [merge sort](https://www.geeksforgeeks.org/merge-sort/) or [heap sort](https://www.geeksforgeeks.org/heap-sort/) \(remember talking about heaps earlier?\), both of which also have this condition.
 
 {% hint style="info" %}
-If f\(n\) is the running time of a comparison sort and $$g(n) = n \log n$$, how would you write "g is the lower bound of f" \(or equivalently, f has a lower bound of g\) using omega notation?
+If $$f(n)$$ is the running time of a comparison sort and $$g(n) = n \log n$$, how would you write "g is the lower bound of f" using omega notation?
 {% endhint %}
 
 Note that usually in programming, when you see logs, it's usually base 2 and not base 10, so calculating $$n \log n$$ for a value of 10,000,000, we get:

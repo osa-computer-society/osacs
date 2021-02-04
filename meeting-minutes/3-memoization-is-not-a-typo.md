@@ -29,7 +29,5 @@
 
 This week for algorithms, we spent a lot of time talking about some pseudocode for how to solve competitive programming problems and how to break down questions into smaller pieces for the computer!
 
-From now on, I'll also do a bit of an intro to C++ for anybody who's willing to stay a little bit past the 8:30 deadline, but don't feel obligated to come. After getting through some initial details this week, it's just a matter of implementation.
-
 
 

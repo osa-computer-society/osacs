@@ -2,6 +2,7 @@
 
 * [OSACS](README.md)
 * [Club Operations 2020–21](club-operations-2020-21.md)
+* [Computer Courses at OSA](computer-courses-at-osa.md)
 
 ## Getting Started
 

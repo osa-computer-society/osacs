@@ -3,9 +3,10 @@
 Whether you're already a programming expert or haven't touched a computer in your life, our computer programs will challenge you to develop your skills in this rapidly expanding field. At Old Scona, we offer four different strands of computer courses:
 
 * **Computer Science**,
-* **Communication Technology**,
 * **CISCO IT Essentials**, and
 * **Cyber Security**.
+
+We will no longer be offering Communication Technology starting with the 2021-22 school year, but you can still learn about design through OSACS!
 
 ## Computer Science 10/20/30/35 \(3 credits each\)
 
@@ -40,14 +41,6 @@ For your Computer Science Internal Assessment \(IA\), or Solution, you will work
 ### University Entry
 
 Comp Sci is recognized as an official science by most post-secondary institutions. You can use Computer Science at the Advanced Level \(Computer Science 30\) to apply for different programs of their choice, including but not limited to the Bachelor of Science, Arts, Education, Nursing, and Physical Education and Recreation programs. Please check with the university and faculty you are planning on attending to see if this applies to you.
-
-## Communication Technology 10/20/30 \(3 credits each\)
-
-Have you ever spent hours playing with images on the computer?  Have you ever wanted to create professional looking graphics, animations and videos? If so, Communication Technology is for you.
-
-In Comm Tech, you'll discover and develop skills to relay a message or idea effectively using various media including animation, graphics, and videos. You will use a variety of software including Adobe Photoshop and Illustrator and will produce a professionally looking product to add to their portfolios. Creativity is a must! You'll have the chance to add your own voice to every project. If a you're interested in pursuing Comm Tech after high school, you should take 6 credits at the 30 level.
-
-![](https://docs.google.com/drawings/d/sLTVwuGwTc8wxSe9SjyZkvQ/image?parent=e/2PACX-1vT4-YOTnHOib8lTOj5gac3pbJijslThq_Wt5m3KghmCcqoTz5D-TnLX02R9L_MBcHLK5Fa4u4iB3FMF&rev=1&h=172&w=624&ac=1)
 
 ## CISCO IT Essentials 10/20/30 \(3 credits each\)
 
